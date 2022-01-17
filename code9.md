@@ -12,7 +12,7 @@
 
 ---
 
-```
+```java
 class main {
 	public static void main(Stringp[] args){
     	Scanner sc = new Scanner(System.in);
